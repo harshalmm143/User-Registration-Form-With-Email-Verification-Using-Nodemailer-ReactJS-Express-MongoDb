@@ -1,0 +1,16 @@
+.Verify-div {
+    background-color: #FFF;
+    padding: 30px;
+    position: relative;
+    width: 40%;
+    margin-left: 32%;
+    margin-top: 5%;
+    box-shadow: 0px 5px 20px black;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.verify-img{
+    width: 60%;
+    height: 140px;
+}
