@@ -1,4 +1,4 @@
-#  User-Registration-Form-With-Email-Verification-Using-Nodemailer-ReactJS-Express-MongoDb
+#  User-Registration-Form-With-Email-Verification-Using-Nodemailer-ReactJS-Express-MongoDb-jwt authentication
 
 
 ## Installation
@@ -6,19 +6,9 @@
 Install my-project with npm
 
 ```bash
-  npm install my-project
-  cd my-project
+  npm install 
 ```
    
-## Deployment
-
-To deploy this project run
-
-```bash
-  npm run deploy
-```
-
-
 
 ## Screenshots 📜
 1. User Registration Form.
@@ -50,16 +40,12 @@ To deploy this project run
 <img width="628" alt="7" src="https://user-images.githubusercontent.com/102899317/188842142-a324af65-d713-4626-a7be-716c35e2c5f9.png">
 
 
-## 🛠 Skills
-Javascript, HTML, CSS, ReactJs, ReactNative...
-
-
 
 ## Tech Stack
 
 **Client :** React, Html, CSS, 
 
-**Server :** Node, Express
+**Server :** Express
 
 **Database :** MongoDb
 
@@ -67,6 +53,10 @@ Javascript, HTML, CSS, ReactJs, ReactNative...
 
 ## 🚀 About Me
 I'm a full stack developer... 👋
+
+
+## 🛠 Skills
+Javascript, HTML, CSS, ReactJs, ReactNative...
 
 
 ## Authors 👨🏻‍💻
